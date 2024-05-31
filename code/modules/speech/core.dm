@@ -157,7 +157,7 @@ Cleanup:
 
 Things To Implement:
 - AI
-- Virtual humans
+- Afterlife bar
 - Observers (not ghosts)
 - Skeleton heads
 - Ghostdrones (language)
